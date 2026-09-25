@@ -1,0 +1,20 @@
+{
+  "case_id": "L3A_CASE_058",
+  "opened_at": "2018-04-04T09:00:00-03:00",
+  "customer_request": {
+    "language": "vi",
+    "message": "Khách hàng phản ánh giao nhận không đúng cam kết. Hãy xác định bên chịu trách nhiệm bằng evidence.",
+    "claimed_order_id": "23c312ca9f0242a48a95e5643bee2645",
+    "claims": [
+      {
+        "claim_id": "claim-058-a",
+        "topic": "refund_pending"
+      },
+      {
+        "claim_id": "claim-058-b",
+        "topic": "requested_full_refund"
+      }
+    ]
+  },
+  "policy_version": "EC_POLICY_V1"
+}

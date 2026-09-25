@@ -1,0 +1,20 @@
+{
+  "case_id": "L3A_CASE_096",
+  "opened_at": "2018-06-15T09:00:00-03:00",
+  "customer_request": {
+    "language": "vi",
+    "message": "Không mặc định lời khai là đúng. Hãy kiểm tra order, shipment, payment và policy liên quan.",
+    "claimed_order_id": "0e3ec3c17b64c6cc7bc01bba21e7afdf",
+    "claims": [
+      {
+        "claim_id": "claim-096-a",
+        "topic": "payment_mismatch"
+      },
+      {
+        "claim_id": "claim-096-b",
+        "topic": "requested_full_refund"
+      }
+    ]
+  },
+  "policy_version": "EC_POLICY_V1"
+}

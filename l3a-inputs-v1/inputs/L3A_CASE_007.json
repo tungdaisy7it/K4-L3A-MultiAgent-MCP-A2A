@@ -1,0 +1,20 @@
+{
+  "case_id": "L3A_CASE_007",
+  "opened_at": "2018-07-07T09:00:00-03:00",
+  "customer_request": {
+    "language": "vi",
+    "message": "Số tiền thanh toán hoặc hoàn tiền có thể chưa khớp. Hãy đối soát trước khi đề xuất hành động.",
+    "claimed_order_id": "ded456690bcb2ffd4def86541479037f",
+    "claims": [
+      {
+        "claim_id": "claim-007-a",
+        "topic": "duplicate_charge"
+      },
+      {
+        "claim_id": "claim-007-b",
+        "topic": "requested_full_refund"
+      }
+    ]
+  },
+  "policy_version": "EC_POLICY_V1"
+}

@@ -1,0 +1,20 @@
+{
+  "case_id": "L3A_CASE_089",
+  "opened_at": "2018-08-08T09:00:00-03:00",
+  "customer_request": {
+    "language": "vi",
+    "message": "Đơn hàng có dấu hiệu bất thường sau thanh toán. Hãy xác minh trạng thái, timeline và quyền lợi phù hợp.",
+    "claimed_order_id": "8ac5066a163c60c1ae9bf17200df3dd1",
+    "claims": [
+      {
+        "claim_id": "claim-089-a",
+        "topic": "refund_failed"
+      },
+      {
+        "claim_id": "claim-089-b",
+        "topic": "requested_full_refund"
+      }
+    ]
+  },
+  "policy_version": "EC_POLICY_V1"
+}
